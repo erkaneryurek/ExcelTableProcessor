@@ -26,7 +26,7 @@ The output will be like;
 - .
 
 For day formats M, T, W, F are acceptable but Th is not because it is 2 characters. What you can do is select DAY column on your excel and replace all Th's with P 
-and after you run the program replace all the P's with Th's.
+and after you run the program replace all the P's with Th.
 
 For slots higher than 9 like with Th you can select SLOT column on your excel and replace all 10, 11, 12 with A, B, C repectively and 13, 14, 15 with X, Y, Z
 and after you run the program replace all the A, B, C with 10, 11, 12 and X, Y, Z with 13, 14, 15.
