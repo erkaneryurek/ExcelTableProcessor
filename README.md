@@ -1,6 +1,3 @@
-WIND
-BOSS
-WEDDING
 # ExcelTableProcessor
 This program turns the output of a course scheduling program into database format.
 The excel file chosen must have headers.
